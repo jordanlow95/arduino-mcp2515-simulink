@@ -1,0 +1,8 @@
+rt_remd.o: \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rt_remd.c \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rtwtypes.h \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rt_remd.h
+
+C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rtwtypes.h:
+
+C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rt_remd.h:

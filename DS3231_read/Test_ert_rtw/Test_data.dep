@@ -1,0 +1,56 @@
+Test_data.o: \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\Test_ert_rtw\Test_data.c \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\Test_ert_rtw\Test.h \
+ C:/Users/jorda/MATLAB/Projects/DS3231_read/slprj/ert/_sharedutils/rtwtypes.h \
+ D:/Matlab/R2023b/simulink/include/rtw_continuous.h \
+ D:/Matlab/R2023b/simulink/include/rtw_solver.h \
+ D:/Matlab/R2023b/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_ArduinoCAN.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_SPIwriteRead.h \
+ D:/Matlab/R2023b/toolbox/target/shared/svd/common/include/MW_I2C.h \
+ D:/Matlab/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ D:/Matlab/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h \
+ D:/Matlab/R2023b/toolbox/shared/can/src/scanutil/can_message.h \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\Test_ert_rtw\MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ArduinoHWInit.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h
+
+C:\Users\jorda\MATLAB\Projects\DS3231_read\Test_ert_rtw\Test.h:
+
+C:/Users/jorda/MATLAB/Projects/DS3231_read/slprj/ert/_sharedutils/rtwtypes.h:
+
+D:/Matlab/R2023b/simulink/include/rtw_continuous.h:
+
+D:/Matlab/R2023b/simulink/include/rtw_solver.h:
+
+D:/Matlab/R2023b/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_ArduinoCAN.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_SPIwriteRead.h:
+
+D:/Matlab/R2023b/toolbox/target/shared/svd/common/include/MW_I2C.h:
+
+D:/Matlab/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+D:/Matlab/R2023b/toolbox/target/shared/svd/common/include/MW_SVD.h:
+
+D:/Matlab/R2023b/toolbox/shared/can/src/scanutil/can_message.h:
+
+C:\Users\jorda\MATLAB\Projects\DS3231_read\Test_ert_rtw\MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/include/MW_ArduinoHWInit.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2023b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023b/aIDE/hardware/arduino/avr/variants/mega/pins_arduino.h:

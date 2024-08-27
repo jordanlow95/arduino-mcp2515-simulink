@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "C:\Users\jorda\MATLAB\Projects\DS3231_read/Test.hex"
+avrdude: writing flash (58334 bytes):
+avrdude: 58334 bytes of flash written
+
+avrdude done.  Thank you.
+

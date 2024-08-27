@@ -1,0 +1,8 @@
+rt_roundd.o: \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rt_roundd.c \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rtwtypes.h \
+ C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rt_roundd.h
+
+C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rtwtypes.h:
+
+C:\Users\jorda\MATLAB\Projects\DS3231_read\slprj\ert\_sharedutils\rt_roundd.h:
